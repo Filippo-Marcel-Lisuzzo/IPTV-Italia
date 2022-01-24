@@ -7,7 +7,7 @@ http://194.76.186.69:8000/play/a0d1
 http://194.76.186.69:8000/play/a0d2
 #EXTINF:-1,tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai", Rai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://194.76.186.69:8000/play/a0d3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1,tvg-id="Rete4.it" tvg-chno="4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset", Rete 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live2-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
